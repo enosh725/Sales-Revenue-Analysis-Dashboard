@@ -2,11 +2,11 @@
 
 ## About the Project
 
-This project was created using Microsoft Excel to analyze sales and revenue data. The main goal was to understand sales performance, identify the best-selling products, and compare sales across different regions using charts and KPI metrics.
+This project was developed using Microsoft Excel to analyze sales and revenue data. The goal was to create a dashboard that provides a clear view of sales performance, product trends, and regional performance using charts and key performance indicators (KPIs).
 
-## Dataset
+## Dataset Information
 
-The dataset contains sales records with the following fields:
+The dataset contains the following fields:
 
 * Order ID
 * Date
@@ -16,32 +16,51 @@ The dataset contains sales records with the following fields:
 * Sales
 * Profit
 
-A total of 50 records were used for the analysis.
+A total of 50 sales records were used for analysis and visualization.
 
-## Dashboard Highlights
+## Dashboard Preview
 
-The dashboard includes:
+![Dashboard Screenshot](Dashboard_image.png)
+
+## Key Performance Indicators
+
+* Total Sales: 32,100
+* Total Profit: 7,380
+* Total Orders: 50
+
+## Dashboard Features
+
+### 1. KPI Summary Cards
 
 * Total Sales
 * Total Profit
 * Total Orders
-* Sales by Region
-* Top Products by Sales
-* Monthly Sales Trend
 
-## Key Findings
+### 2. Sales by Region
 
-* The South region recorded the highest sales among all regions.
-* Laptops were the highest-selling product category.
-* The dashboard makes it easy to compare performance across products and regions.
+Displays sales performance across different regions and helps identify the highest-performing region.
+
+### 3. Top Products by Sales
+
+Highlights the products that generated the highest sales revenue.
+
+### 4. Monthly Sales Trend
+
+Shows how sales changed over time and helps identify trends.
 
 ## Tools Used
 
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
-* Basic Data Analysis
+* Data Visualization
+
+## Key Insights
+
+* The South region recorded the highest sales.
+* Laptops were the best-selling product category.
+* The dashboard provides a quick overview of business performance through visual reports.
 
 ## Conclusion
 
-This project helped in understanding how Excel can be used for data analysis and visualization. By using Pivot Tables and charts, sales information can be summarized in a simple and meaningful way, helping users make better decisions based on data.
+This project demonstrates how Microsoft Excel can be used for data analysis and dashboard creation. By using Pivot Tables, charts, and KPI cards, raw sales data can be transformed into meaningful insights that support better decision-making.
